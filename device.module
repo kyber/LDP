@@ -22,7 +22,7 @@ function device_help($path, $arg) {
 */
 function device_perm() {
   return array('access onthisdate content');
-} // function onthisdate_perm()
+} // function device_perm()
 
 
 /**
