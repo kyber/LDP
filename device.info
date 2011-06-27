@@ -1,0 +1,3 @@
+name = Local Device Program 
+description = Local Device Program device loan management module
+core = 6.x
